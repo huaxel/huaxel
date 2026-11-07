@@ -2,7 +2,7 @@
 
 **LL.M. building with LLMs.**
 
-I’m a Brussels-based legal and technology professional building software for complex legal and operational workflows. My background spans commercial law, public-sector transformation and hands-on software development.
+I’m a Brussels-based legal and technology professional building software for complex legal and operational workflows. My background spans public & commercial law, public-sector transformation and hands-on software development.
 
 ## Selected work
 
